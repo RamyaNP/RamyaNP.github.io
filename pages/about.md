@@ -3,4 +3,6 @@ layout: misc
 title: About
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi! I am Ramya NP, an undergrad in Computer Science. If you are reading this, you must have stumbled across my tiny cabbage patch of thoughts. Logolepsy, the title of this blog, means an obsession with words. I love words. And this is my attempt at a tribute to words and the power they hold.
+I could describe myself here, but I rather let my blog do that for me. L'Chaim!
+
