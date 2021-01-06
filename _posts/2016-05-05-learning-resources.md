@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Resources"
-author: "Paul Le"
+author: "Ramya NP"
 categories: sample
 tags: [sample]
 image: arctic-4.jpg
